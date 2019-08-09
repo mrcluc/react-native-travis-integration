@@ -6,6 +6,7 @@ android:
     - build-tools-23.0.1
     - android-23
 before_install:
+  - touch ~/.android/repositories.cfg
   - yes | sdkmanager "platforms;android-23"
   - yes | sdkmanager "build-tools;23.0.1"
   - nvm install && nvm use
