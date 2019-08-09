@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/marcao/Documentos/Equals/ReactNativeTravisCI/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/marcao/.gradle/caches/transforms-2/files-2.1/40348300480b46fb8582befb1b971c00/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
