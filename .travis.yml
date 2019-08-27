@@ -1,5 +1,6 @@
 os: linux
 language: android
+dist : trusty
 jdk: oraclejdk8
 android:
   components:
